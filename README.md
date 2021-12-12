@@ -3,6 +3,8 @@
 This is a list of known mods for the Peglin demo. The maintainer of this list has not vetted every mod on it and recommends that you use your good judgement
 when running programs you downloaded from the internet. If you want to have your mod added, make a PR or reach out to me :)
 
+Questions or problems? Come hang out on the Peglin discord! https://discord.gg/fpByCzvqWW
+
 [bo0tzz/CustomStartDeck](https://github.com/bo0tzz/CustomStartDeck) - Customize your starting orbs and relics.  
 [bo0tzz/EndlessPeglin](https://github.com/bo0tzz/EndlessPeglin) - Start new games with your orbs and relics from the previous run.  
 [bo0tzz/PeglinTweaks](https://github.com/bo0tzz/PeglinTweaks) - Various configurable tweaks to the game's behaviour and physics.  
