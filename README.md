@@ -9,7 +9,8 @@ Questions or problems? Come hang out on the Peglin discord! https://discord.gg/f
 [bo0tzz/EndlessPeglin](https://github.com/bo0tzz/EndlessPeglin) - Start new games with your orbs and relics from the previous run.  
 [bo0tzz/PeglinTweaks](https://github.com/bo0tzz/PeglinTweaks) - Various configurable tweaks to the game's behaviour and physics.  
 [bo0tzz/Randorbmizer](https://github.com/bo0tzz/Randorbmizer) - Randomize the game!  
-[bo0tzz/PeglinGPS](https://github.com/bo0tzz/PeglinGPS) - Plot out your path on the minimap.
+[bo0tzz/PeglinGPS](https://github.com/bo0tzz/PeglinGPS) - Plot out your path on the minimap.  
+[4a656666/PeglinMapMod](https://github.com/4a656666/PeglinMapMod) - Change the way the map is generated.
 
 
 ## Obsolete
