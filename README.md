@@ -13,7 +13,8 @@ Questions or problems? Come hang out on the Peglin discord! https://discord.gg/f
 [bo0tzz/Randorbmizer](https://github.com/bo0tzz/Randorbmizer) - Randomize the game!  
 [bo0tzz/PeglinGPS](https://github.com/bo0tzz/PeglinGPS) - Plot out your path on the minimap.  
 [4a656666/PeglinMapMod](https://github.com/4a656666/PeglinMapMod) - Change the way the map is generated.  
-[ruiner189/Promethium](https://github.com/ruiner189/Promethium) - balance changes, new mechanics, and QoL features.
+[ruiner189/Promethium](https://github.com/ruiner189/Promethium) - balance changes, new mechanics, and QoL features.  
+[crazyjackel/RelicLib](https://github.com/crazyjackel/Peglin-Relic-Lib) - Library for Creating Relics
 
 
 ## Obsolete
