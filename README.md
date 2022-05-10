@@ -12,11 +12,11 @@ Questions or problems? Come hang out on the Peglin discord! https://discord.gg/f
 [ruiner189/Promethium](https://github.com/ruiner189/Promethium) - balance changes, new mechanics, and QoL features.  
 [crazyjackel/RelicLib](https://github.com/crazyjackel/Peglin-Relic-Lib) - Library for Creating Relics.   
 [bo0tzz/PeglinGPS](https://github.com/bo0tzz/PeglinGPS) - Plot out your path on the minimap.  
+[bo0tzz/PeglinTweaks](https://github.com/bo0tzz/PeglinTweaks) - Various configurable tweaks to the game's behaviour and physics.  
 
 ## Outdated
 These mods are outdated, and no longer work on the latest release of the game. Hopefully they're updated soon.  
-
-[bo0tzz/PeglinTweaks](https://github.com/bo0tzz/PeglinTweaks) - Various configurable tweaks to the game's behaviour and physics.  
+  
 [bo0tzz/Randorbmizer](https://github.com/bo0tzz/Randorbmizer) - Randomize the game!  
 [4a656666/PeglinMapMod](https://github.com/4a656666/PeglinMapMod) - Change the way the map is generated.  
 
